@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  x_actor: MyString
+  x_verb: MyString
+  x_object: MyString
+  x_result: MyString
+  x_context: MyString
+
+two:
+  x_actor: MyString
+  x_verb: MyString
+  x_object: MyString
+  x_result: MyString
+  x_context: MyString
